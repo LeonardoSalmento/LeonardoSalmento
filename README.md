@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Um dos desenvolvedores do game Heavy Frost para android, disponível na playstore.
+
+Desenvolvedor do Nowill - plugin para o visual studio code
+
 <!--
 **LeonardoSalmento/LeonardoSalmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
