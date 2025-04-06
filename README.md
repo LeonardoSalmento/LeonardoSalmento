@@ -1,8 +1,15 @@
-### Hi there 👋
+<h1> Hi there 👋 <h1/>
 
-Um dos desenvolvedores do game Heavy Frost para android, disponível na playstore. - https://play.google.com/store/apps/details?id=com.heavyFrost&hl=pt_BR&gl=US
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-salmento-21b650142/)](https://www.linkedin.com/in/leonardo-salmento-21b650142/)
+[![Gmail Badge](https://img.shields.io/badge/-salmento.leonardo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmento.leonardo@gmail.com)](mailto:salmento.leonardo@gmail.com)
 
-Desenvolvedor do Nowill - plugin para o visual studio code - https://github.com/LeonardoSalmento/Nowill
+## My name is Leonardo Salmento
+(.Net | C# | SQL | Postgresql )
+
+- 👩‍💻 Software Enginneer
+- 🎓 Graduate in Systems analysis and development
+- 💡 Love a good challenge
+- 🌐 Nowill Developer, Accessibility plugin for Visual Studio Code - https://github.com/LeonardoSalmento/Nowill
 
 <!--
 **LeonardoSalmento/LeonardoSalmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
